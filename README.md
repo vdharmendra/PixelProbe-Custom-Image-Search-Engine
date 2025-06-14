@@ -4,9 +4,10 @@
 
 ---
 
-## 🚀 Preview
+## 🚀 Live Preview 
+### Live Demo :
+<a href="https://vdharmendra.github.io/PixelProbe-Custom-Image-Search-Engine/">Live Demo </a>
 <img src="./img/FreeImageSearchGallery.gif" style="width:350px;"/>
-
 
 ---
 
