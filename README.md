@@ -6,8 +6,8 @@
 
 ## 🚀 Live Preview 
 ### Live Demo :
-<a href="https://vdharmendra.github.io/PixelProbe-Custom-Image-Search-Engine/">Live Demo </a><br />
-<img src="./img/FreeImageSearchGallery.gif" style="width:350px;"/>
+<a style="color:#000;font-size:32px;" href="https://vdharmendra.github.io/PixelProbe-Custom-Image-Search-Engine/">Live Demo </a><br />
+<img src="./img/FreeImageSearchGallery.gif" style="width:350px;margin-top:25px;"/>
 
 ---
 
