@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Preview
+<img src="./img/FreeImageSearchGallery.gif" style="width:350px;"/>
+
+
+---
+
 ## 🚀 Features
 
 - 🔍 Real-time image search
